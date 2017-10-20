@@ -25,6 +25,7 @@ Software:
 - PostGIS 2.3.2
 - PostgreSQL 9.6.2
 - PgAdmin 4 1.3
+- EnterPrise Architect version 10
 
 # References
 For more information, check out:
