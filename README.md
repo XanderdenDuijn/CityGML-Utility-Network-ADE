@@ -4,6 +4,7 @@ This repository contains the datasets and codes used for my MSc. Thesis research
 In short, the files in this repository are used to conduct the following two steps (in [FME](https://www.safe.com/)):
 - Creating CityGML Utility Network ADE data (with ESRI Shapefiles as input)
 - Putting the data in a 3D City Database
+- Performing geospatial (network) analyses by running some queries
 
 The database will be enriched with above as well as below ground (utility network) data.
 
