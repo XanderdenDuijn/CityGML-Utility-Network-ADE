@@ -17,15 +17,14 @@ After putting the data in a database, the data can be visualized by making a con
 
 # Technical Information
 Hardware:
-The processes were run on a HP laptop computer with a 2.6 GHz Intel Core i7 processor and 8 GB of RAM running Windows 10.
+- The processes were run on a HP laptop computer with a 2.6 GHz Intel Core i7 processor and 8 GB of RAM running Windows 10.
 
 Software:
-UtilityNetwork ADE Version 0.9.2
-FME Version 2017.0.0.2 (20170331 - Build 17280 - WIN64)
-PgAdmin 4 1.3
-PostGIS 2.3.2
-PostgreSQL 9.6.2
-
+- UtilityNetwork ADE Version 0.9.2
+- FME Version 2017.0.0.2 (20170331 - Build 17280 - WIN64)
+- PostGIS 2.3.2
+- PostgreSQL 9.6.2
+- PgAdmin 4 1.3
 
 # References
 For more information, check out:
