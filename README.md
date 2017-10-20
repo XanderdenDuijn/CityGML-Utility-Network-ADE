@@ -12,6 +12,8 @@ The raw CityGML Utility Network data can be directly viewed in:
 - The FME Data Inspector
 - The FZK Viewer (https://www.iai.kit.edu/english/1302.php)
 
+After putting the data in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables you to 'simulate' e.g. what objects are affected by a utility strike.
+
 # References
 For more information, check out:
 - https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE (For getting started with CityGML Utility Network ADE data in FME and everthing related)
