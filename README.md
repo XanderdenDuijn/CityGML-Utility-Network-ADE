@@ -7,6 +7,11 @@ In short, the files in this repository are used to conduct the following two ste
 
 The database will be enriched with above as well as below ground (utility network) data.
 
+# Visualization
+The raw CityGML Utility Network data can be directly viewed in:
+- The FME Data Inspector
+- The FZK Viewer (https://www.iai.kit.edu/english/1302.php)
+
 # References
 For more information, check out:
 - https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE (For getting started with CityGML Utility Network ADE data in FME and everthing related)
