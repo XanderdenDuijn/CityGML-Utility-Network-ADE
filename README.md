@@ -15,6 +15,18 @@ The raw CityGML Utility Network data can be directly viewed in:
 
 After putting the data in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables the user to 'simulate' e.g. what objects are affected by a utility strike.
 
+# Technical Information
+Hardware:
+The processes were run on a HP laptop computer with a 2.6 GHz Intel Core i7 processor and 8 GB of RAM running Windows 10.
+
+Software:
+UtilityNetwork ADE Version 0.9.2
+FME Version 2017.0.0.2 (20170331 - Build 17280 - WIN64)
+PgAdmin 4 1.3
+PostGIS 2.3.2
+PostgreSQL 9.6.2
+
+
 # References
 For more information, check out:
 - https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE (For getting started with CityGML Utility Network ADE data in FME and everthing related)
