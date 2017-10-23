@@ -2,8 +2,8 @@
 This repository contains the datasets and code used for my MSc. Thesis research on the development of a 3D standard data model for below and above ground utility network features.
 
 In short, the files in this repository are used to conduct the following steps (in [FME](https://www.safe.com/)):
-- Creating CityGML Utility Network ADE data (with ESRI Shapefiles as input)
-- Putting the data in a 3D City Database
+- Creating CityGML Utility Network ADE data (FME\create_citgml\sewer_line2citygml.fmw)
+- Putting the data in a 3D City Database (FME\insert_data\..)
 - Performing geospatial (network) analyses by running some queries (under development)
 
 The database will be enriched with above as well as below ground (utility network) data. More specific, sewer network data and manholes will be inserted in the database.
