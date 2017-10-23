@@ -1,7 +1,7 @@
 The files in this folder are used to insert CityGML data (including utility networks) into a PostgreSQL/PostGIS database.
 
 It is important that inserting is done in the correct order.
-For this reason a .bat file (insert.bat) is created that runs the workbenches achter eachother.
+For this reason a .bat file (insert.bat) is created that runs the workbenches after eachother.
 
 Before executing the .bat file make sure that:
 - the input/source CityGML file is correctly specified
