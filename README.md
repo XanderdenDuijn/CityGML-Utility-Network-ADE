@@ -33,5 +33,6 @@ Other:
 # References
 For more information, check out:
 - https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE (For getting started with CityGML Utility Network ADE data in FME and everthing related)
-- https://github.com/gioagu/3dcitydb_ade (for extending the 3D City Database)
 - https://github.com/3dcitydb/3dcitydb (for setting up the 3D City Database)
+- https://github.com/gioagu/3dcitydb_ade (for extending the 3D City Database)
+
