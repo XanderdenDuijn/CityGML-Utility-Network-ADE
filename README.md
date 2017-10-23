@@ -20,12 +20,15 @@ Hardware:
 - The processes were run on a HP laptop computer with a 2.6 GHz Intel Core i7 processor and 8 GB of RAM running Windows 10.
 
 Software:
-- UtilityNetwork ADE Version 0.9.2
 - FME Version 2017.0.0.2 (20170331 - Build 17280 - WIN64)
 - PostGIS 2.3.2
 - PostgreSQL 9.6.2
 - PgAdmin 4 1.3
 - EnterPrise Architect version 10
+
+Other:
+- UtilityNetwork ADE Version 0.9.2
+- CityGML version 2.0
 
 # References
 For more information, check out:
