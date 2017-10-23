@@ -1,0 +1,5 @@
+Run 'sewer_lines2citygml.fmw' to create the Utility Network ADE data.
+
+Make sure the source data is specified correctly.
+
+The .gml output file must be located in the create_citygml folder. If not, the file will not be find when trying to insert the data.
