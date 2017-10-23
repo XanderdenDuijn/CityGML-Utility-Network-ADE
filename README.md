@@ -1,19 +1,19 @@
 # CityGML-Utility-Network-ADE
-This repository contains the datasets and codes used for my MSc. Thesis research on the development of a 3D standard data model for below and above ground utility network features.
+This repository contains the datasets and code used for my MSc. Thesis research on the development of a 3D standard data model for below and above ground utility network features.
 
-In short, the files in this repository are used to conduct the following two steps (in [FME](https://www.safe.com/)):
+In short, the files in this repository are used to conduct the following steps (in [FME](https://www.safe.com/)):
 - Creating CityGML Utility Network ADE data (with ESRI Shapefiles as input)
 - Putting the data in a 3D City Database
 - Performing geospatial (network) analyses by running some queries (under development)
 
-The database will be enriched with above as well as below ground (utility network) data.
+The database will be enriched with above as well as below ground (utility network) data. More specific, sewer network data and manholes will be inserted in the database.
 
 # Visualization
 The raw CityGML Utility Network data can be directly viewed in:
 - The FME Data Inspector
 - The FZK Viewer (https://www.iai.kit.edu/english/1302.php)
 
-After putting the data in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables the user to 'simulate' e.g. what objects are affected by a utility strike.
+After putting the data in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables the user to 'simulate' e.g. what objects are affected by a utility strike or a malfunctioning pumping station.
 
 # Technical Information
 Hardware:
