@@ -13,9 +13,3 @@ To extend the 3D City Database database, see https://github.com/gioagu/3dcitydb_
 
 Although most of the components in the workbenches are disabled, <b>DO NOT DELETE</b> them. 
 They are required for the 'Counter' Transformer which ensures the id's (fk's and pk's) are set correctly.
-
-<b>NOTE: There is still something going wrong with the id's..</b>
-
-
-
-
