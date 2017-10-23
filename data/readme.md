@@ -5,6 +5,7 @@ The following datasets are present:
 - Digital Terrain Model (DTM) (TIF)
 
 Both the sewer_lines as the manholes are originally downloaded from the Rotterdam Open Data Store (http://rotterdamopendata.nl/dataset)
+
 The DTM (AHN2) is downloaded from PDOK (https://www.pdok.nl/nl --> Nationaal Georegister)
 
 The spatial scope of the research is limited to 'Hoogvliet'. This borough of about 1000 hectares (ca. 3 by 3 km) is located in the southern part of Rotterdam and houses approximately 34.000 inhabitants
