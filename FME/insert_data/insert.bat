@@ -26,13 +26,18 @@ fme insert_data\workbenches\utn9_feature_graph.fmw --SourceDataset_CITYGML creat
 fme insert_data\workbenches\utn9_node.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
 
 :: step 8
-fme insert_data\workbenches\utn9_link1.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
-
-:: step 9
-fme insert_data\workbenches\utn9_link2.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
+fme insert_data\workbenches\utn9_link.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
 
 :: go back
 popd
+
+\echo
+\echo '***********************************************************************'
+\echo
+\echo 'Done. Check .log files in the folder 'workbenches' for more information'
+\echo
+\echo '***********************************************************************'
+\echo
 
 
 
