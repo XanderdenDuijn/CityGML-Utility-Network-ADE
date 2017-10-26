@@ -10,7 +10,7 @@ After this I will perform some geospatial network analyses by running queries on
 The database will be enriched with above as well as below ground (utility network) data. More specific, sewer network data and manholes will be inserted in the database.
 
 # Visualization
-The raw CityGML Utility Network data can be directly viewed in:
+After running the transformation, the raw CityGML Utility Network data can be directly viewed in:
 - The FME Data Inspector
 - The FZK Viewer (https://www.iai.kit.edu/english/1302.php)
 
