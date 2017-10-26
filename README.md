@@ -14,7 +14,7 @@ After running the transformation, the raw CityGML Utility Network data can be di
 - The FME Data Inspector
 - The FZK Viewer (https://www.iai.kit.edu/english/1302.php)
 
-After putting the data in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables the user to 'simulate' e.g. what objects are affected by a utility strike or a malfunctioning pumping station.
+When having the data inserted in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables the user to see e.g. what assets are affected by a utility strike or a malfunctioning pumping station.
 
 # Technical Information
 Hardware:
