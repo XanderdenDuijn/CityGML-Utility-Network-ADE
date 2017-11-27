@@ -1,5 +1,5 @@
 :: Created by Xander den Duijn 2017-10-19
-:: Last edited by Xander 2017-10-23
+:: Last edited by Xander 2017-11-13
 
 ::go one directory up
 pushd %~dp0.. 
@@ -42,11 +42,12 @@ pause
 :: step 8
 fme insert_data\workbenches\utn9_link.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
 
+pause
 
 :: go back
 popd
 
-pause
+
 
 
 
