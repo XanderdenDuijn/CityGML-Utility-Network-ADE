@@ -39,5 +39,5 @@ For more information, check out:
 
 # Notes
 
-When using [pgRouting] (http://pgrouting.org/index.html), make sure to add a 'cost' column to the utn9_link table
+When using [pgRouting](http://pgrouting.org/index.html), make sure to add a 'cost' column to the utn9_link table
 
