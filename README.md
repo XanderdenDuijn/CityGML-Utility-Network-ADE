@@ -37,3 +37,7 @@ For more information, check out:
 - https://github.com/3dcitydb/3dcitydb (for setting up the 3D City Database)
 - https://github.com/gioagu/3dcitydb_ade (for extending the 3D City Database for utility networks)
 
+# Notes
+
+When using [pgRouting] (http://pgrouting.org/index.html), make sure to add a 'cost' column to the utn9_link table
+
