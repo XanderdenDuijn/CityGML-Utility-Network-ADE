@@ -30,16 +30,21 @@ fme insert_data\workbenches\utn9_network_feature.fmw --SourceDataset_CITYGML cre
 pause
 
 :: step 6
-fme insert_data\workbenches\utn9_feature_graph.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
+fme insert_data\workbenches\utn9_distrib_element.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
 
 pause
 
 :: step 7
-fme insert_data\workbenches\utn9_node.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
+fme insert_data\workbenches\utn9_feature_graph.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
 
 pause
 
 :: step 8
+fme insert_data\workbenches\utn9_node.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
+
+pause
+
+:: step 9
 fme insert_data\workbenches\utn9_link.fmw --SourceDataset_CITYGML create_citygml/sewer.gml
 
 pause
