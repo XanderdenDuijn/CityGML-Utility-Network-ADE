@@ -1,20 +1,20 @@
 # CityGML-Utility-Network-ADE
-This repository contains the datasets and code used for my MSc. Thesis research on the development of a 3D standard data model for below and above ground utility network features.
+This repository contains the datasets and code used for my MSc. Thesis research on the suitability of the CityGML Utility Network ADE for representing below and above ground utility network features.
 
 In short, the files in this repository are used to conduct the following steps (in [FME](https://www.safe.com/)):
 - Creating CityGML Utility Network ADE data (FME\create_citgml\sewer_line2citygml.fmw)
 - Putting the data in a 3D City Database (FME\insert_data\..)
 
-After this I will perform some geospatial network analyses by running queries on the database, but this work is ongoing..
+After this a couple of geospatial network analyses are performed by running queries on the database using [pgRouting](https://pgrouting.org/)
 
-The database will be enriched with above as well as below ground (utility network) data. More specific, sewer network data and manholes will be inserted in the database.
+The 3D City Database will be populated with above as well as below ground utility network data. More specific, sewer network data and manholes will be put in the database.
 
 # Visualization
-After running the transformation, the raw CityGML Utility Network data can be directly viewed in:
+After running the translation, the raw output CityGML Utility Network data can be directly viewed in:
 - The FME Data Inspector
 - The FZK Viewer (https://www.iai.kit.edu/english/1302.php)
 
-When having the data inserted in a database, the data can be visualized by making a connection in e.g. ArcScene. This enables the user to see e.g. what assets are affected by a utility strike or a malfunctioning pumping station.
+When having the utility network data in a database, the data can be also visualized by making a connection in e.g. ArcScene. This enables the user to see e.g. what assets are affected by a utility strike or a malfunctioning asset.
 
 # Technical Information
 Hardware:
